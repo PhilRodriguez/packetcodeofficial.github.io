@@ -1,0 +1,21 @@
+ h2,h3, h4{
+	font-family: 'Work Sans', sans-serif;
+}
+h1{
+  font-family: 'Times New Roman', cursive;
+
+}
+
+a{
+	font-family: 'Agency FB', sans-serif;
+}	
+
+img{
+	animation: fade 20s infinite;
+}
+
+.image-container{
+	
+}
+
+
